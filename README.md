@@ -1,2 +1,7 @@
 # AI-YouTube-TimeStamps
-A project to mark timestamps in Youtube
+A project to mark timestamps in Yout
+
+
+
+
+WOOOOOW ube
